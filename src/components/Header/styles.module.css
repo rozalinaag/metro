@@ -1,0 +1,15 @@
+.title{
+  font-size: 22px;
+  font-weight: 750;
+  line-height: 0;
+}
+
+.description{
+  font-size: 20px;
+  line-height: 1;
+  font-family: Cordila, Helvetica, sans-serif;
+}
+
+.wrapper{
+  padding: 38px 20px;
+}
